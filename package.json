@@ -1,6 +1,6 @@
 {
   "name": "intor-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight in-memory cache with TTL and size limit, used in the Intor i18n library to efficiently store translation messages.",
   "author": "Yiming Liao",
   "license": "MIT",
