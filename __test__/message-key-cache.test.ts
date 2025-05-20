@@ -1,8 +1,4 @@
-import {
-  clearMessageKeyCache,
-  getMessageKeyCache,
-  IntorCache,
-} from "../../src/intor-cache";
+import { clearMessageKeyCache, getMessageKeyCache, IntorCache } from "../src";
 
 describe("MessageKeyCache", () => {
   const originalWindow = global.window;

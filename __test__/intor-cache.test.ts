@@ -1,4 +1,4 @@
-import { IntorCache } from "../../src/intor-cache";
+import { IntorCache } from "../src";
 
 jest.useFakeTimers();
 
